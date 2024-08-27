@@ -1,1 +1,6 @@
 hi these is other file
+hi these is other change 
+git status
+git add
+git commit -m "message"
+git push
